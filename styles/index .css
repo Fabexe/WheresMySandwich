@@ -29,14 +29,27 @@ body {
     color: #000000;
     padding: 10px;
     text-decoration: none;
-    text-align: center;
+    text-align:justify;
     font-family: 'bigfontsize', Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 20px;
-    width: auto;
+    width: 400px;
 }
 
-.selector:hover {
+.button{
+    border: none;
+    color: #000000;
+    background-color: #00000000;
+    padding: 10px;
+    text-decoration: none;
+    text-align:justify;
+    font-family: 'bigfontsize', Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 400px;
+}
+
+.button:hover {
     background-color: #7f4815ba;
     padding: 10px;
     border-radius: 20px;
