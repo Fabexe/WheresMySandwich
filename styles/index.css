@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'smallfontsize';
+    src: url('../fonts/16px.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'bigfontsize';
+    src: url('../fonts/21px.ttf') format('truetype');
+}
+
+body {
+    color:rgb(160, 163, 69);
+}
+
+.title {
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'bigfontsize', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    border-radius: 20px;
+    width: auto;
+}
