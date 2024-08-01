@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#obstacle1 {
+    width: 600px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#obstacle2 {
+    width: 20px;
+    height: 600px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
