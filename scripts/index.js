@@ -3,5 +3,5 @@ document.getElementById('github_repertories').addEventListener('click', function
 });
 
 document.getElementById('start_world_1').addEventListener('click', function() {
-    window.location.href = '/worlds/world1.html';
+    window.location.href = './worlds/world1.html';
 });
